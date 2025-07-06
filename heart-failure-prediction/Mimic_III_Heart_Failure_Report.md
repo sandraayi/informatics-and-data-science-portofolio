@@ -39,4 +39,4 @@ Heart failure affects over 6.7 million adults in the U.S. and contributes signif
 This work reflects my commitment to leveraging clinical informatics for quality improvement and patient-centered care. While the predictive models had limited power to identify mortality, they were effective in stratifying patients likely to survive, enabling earlier interventions and efficient ICU resource allocation.
 
 ## Related Links  
-- [View Full Jupyter Notebook](https://github.com/sandraayi/informatics-and-data-science-portofolio/blob/main/heart-failure-analysis/BHIS561_Unit08_Assignment01_Sandra_Ayi.ipynb)
+- [View Full Jupyter Notebook](https://github.com/sandraayi/informatics-and-data-science-portofolio/blob/main/heart-failure-prediction/BHIS561_Unit08_Assignment01_Sandra_Ayi.ipynb)
