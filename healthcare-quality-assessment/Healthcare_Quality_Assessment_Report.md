@@ -3,7 +3,7 @@
 
 ## Project Objective
 This project involved analyzing a de-identified hospital discharge dataset as part of a simulated quality improvement (QI) initiative.  
-The goal was to assess hospital readmission rates and length of stay (LOS) trends across two Midwest facilities—**Illinois Medical Care Center** and **Kentucky Best Care**—and to explore the data quality, completeness, and operational insights that could inform care improvements.
+The goal was to assess hospital readmission rates and length of stay (LOS) trends across two Midwest facilities—**Center A** and **Center B**—and to explore the data quality, completeness, and operational insights that could inform care improvements.
 
 ---
 
@@ -27,7 +27,7 @@ The dataset required extensive preprocessing:
 ---
 
 ## Key Findings
-- Illinois Medical Care Center had 88 readmissions; Kentucky Best Care had 47  
+- Center A  had 88 readmissions;Center B had 47  
 - Dataset included 650 total admissions (55.03% male, 44.97% female)  
 - Some **Time-to-Procedure** values were illogical, occurring *before* admission  
 - The **Charlson Comorbidity Index (CCI)** was inconsistently applied and often missing
