@@ -1,5 +1,5 @@
 
-#Project Description – COVID-19 Impact Forecasting Capstone
+# Project Description – COVID-19 Impact Forecasting Capstone
 
 This capstone project, developed as part of the UT Austin PGP Data Science and Business Analytics program, focuses on modeling the progression and impact of COVID-19 across different regions using publicly available datasets.
 
