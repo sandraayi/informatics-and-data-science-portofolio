@@ -30,3 +30,6 @@ Data analysis was performed using Microsoft Excel. Functions such as VLOOKUP ena
 ## Conclusion
 
 This project simulated real-world data challenges encountered in quality improvement initiatives. The findings point to both opportunities for operational insights and the importance of data analytics in enhancing hospital management and improving healthcare performance indices.
+
+## Resources and Links
+[LOS Analysis Table (CSV)] (https://github.com/sandraayi/informatics-and-data-science-portofolio/blob/main/healthcare-quality-assessment/LOS_Analysis_Table.csv)
