@@ -26,7 +26,7 @@ Microsoft Excel – Conditional formatting, lookup tables, filters, sorting, dat
 ## Clinical Relevance  
 Hospital administrators and quality officers rely on these types of analyses to make data-driven decisions, optimize resource use, and improve patient outcomes. This project reflects early exposure to operational informatics and QI data handling.
 
-### 📌 Summary Table
+###Summary Table
 | Facility ID | Medical Center | Average LOS (days) | Readmission Rate (%) | Total Discharges |
 |-------------|----------------|---------------------|------------------------|-------------------|
 | 5           | Center A       | 4.94                | 13.6                   | 884               |
@@ -34,7 +34,7 @@ Hospital administrators and quality officers rely on these types of analyses to 
 
 ---
 
-### 📁 Project Files
+### Project Files
 - [`Healthcare_Quality_Assessment_Report.pdf`](./Healthcare_Quality_Assessment_Report.pdf) — Full formal report (ERAS-ready)
 - [`LOS_Analysis_Table.csv`](./LOS_Analysis_Table.csv) — Summary metrics in CSV format
 
