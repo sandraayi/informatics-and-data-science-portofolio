@@ -28,3 +28,5 @@ Hospital administrators and quality officers rely on these types of analyses to 
 
 ## File  
 - `U2 AYI.xlsx` – Full workbook with multi-step analysis and lookup logic
+- LOS_Analysis_Table.csv: Aggregated metrics summary
+- Healthcare_Quality_Assessment_Report_Integrated.pdf: Formal write-up with integrated summary table
