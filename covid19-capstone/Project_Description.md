@@ -21,3 +21,7 @@ As a physician with frontline experience during the pandemic, I approached this 
 
 ## Social Impact  
 The model could help reduce testing bottlenecks, support equitable resource allocation, and enable earlier initiation of treatment for high-risk patients.
+## Resources & Links  
+- [Final Jupyter Notebook](./SANDRA%20SEFAKOR%20AMA%20AYI%20Covid-19%20Capstone%20Project%20Final%20Notebook.ipynb)  
+- [Project Description (Markdown)](./Project_Description.md)
+- [View Final HTML Report and Notebook](./SANDRA%20SEFAKOR%20AMA%20AYI%20Covid-19%20Capstone%20Project%20Final%20Notebook%20(1).html)
