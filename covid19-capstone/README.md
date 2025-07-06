@@ -5,7 +5,7 @@
 Developed machine learning models to predict COVID‑19 test outcomes using routine blood parameters. This project aimed to support rapid triage decisions in clinical settings where molecular testing was delayed or limited.
 
 ## Key Highlights  
-- Utilized a publicly available dataset with anonymized clinical lab data and COVID-19 RT-PCR test results  
+- Utilized a publicly available dataset (originally released by Hospital Israelita Albert Einstein, São Paulo, Brazil) with anonymized clinical lab data and COVID-19 RT-PCR test results  
 - Conducted extensive data preprocessing including handling of missing values, normalization, and outlier detection  
 - Explored variable distributions and correlations across hematologic parameters (e.g., leukocytes, lymphocytes, eosinophils)  
 - Built and evaluated several ML models:
