@@ -7,13 +7,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To explore and visualize geographic and institutional variations in average hospital episode spending under Medicare across the United States, segmented by claim type, state, and individual hospitals.
 
 ---
 
-## 📊 Data Summary
+## Data Summary
 
 - **Claim Types**: Inpatient, Outpatient, Home Health, Skilled Nursing Facility, Hospice, Durable Medical Equipment, and Carrier  
 - **Metrics**: Average spending per episode (hospital, state, nation); Percent contribution of hospital and state spending to national benchmarks  
@@ -22,7 +22,7 @@ To explore and visualize geographic and institutional variations in average hosp
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 ### 1. Spending by Claim Type
 - Inpatient and SNF (Skilled Nursing Facility) claims had the highest average per-episode costs.  
@@ -48,7 +48,7 @@ To explore and visualize geographic and institutional variations in average hosp
 
 ---
 
-## 🏥 Implications for Healthcare
+## Implications for Healthcare
 
 - The observed variations underscore the importance of cost transparency and data-driven policy.  
 - Insights may inform initiatives targeting:  
@@ -59,7 +59,7 @@ To explore and visualize geographic and institutional variations in average hosp
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Data wrangling and filtering using Tableau  
 - Data visualization  
